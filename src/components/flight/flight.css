@@ -1,0 +1,8 @@
+.flightBox {
+  border: 1px solid blue;
+}
+
+.flightBox:hover {
+  background-color: red;
+  cursor: pointer;
+}
